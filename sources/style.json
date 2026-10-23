@@ -1,0 +1,7 @@
+{"name": "Kouang Si Sign", "slug": "KouangSiSign", "ink": "a", "body": "ນ",
+ "sign_text": "ແຫຼ່ງທ່ອງທ່ຽວທຳມະຊາດ ອຸທິຍານນ້ຳຕົກຕາດກວາງຊີ / Kouang Si Waterfall",
+ "notes": "Friendly painted park-sign lettering: round heads, generous loops, even stroke. The bilingual Latin on the sign (rounded single-storey a, looped l) is a candidate companion for later.",
+ "labels": {"ແ": [2, 4], "ງ": [12], "ທ": [14], "່": [18], "ອ": [19], "ຽ": [30], "ວ": [34], "ໍ": [41], "ມ": [46],
+            "ະ": [49, 50], "ຊ": [53], "າ": [56], "ດ": [59], "ຸ": [1], "ິ": [6], "ຍ": [11], "ນ": [17], "ກ": [35], "ຕ": [37], "ີ": [60]},
+ "nib": {"shape": "round"},
+ "effects": [{"op": "wobble", "amp": 2, "wave": 300}]}
